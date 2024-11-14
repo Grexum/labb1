@@ -9,7 +9,7 @@ output:
 
 # Sammanfattning
 I detta inledande stycke ska du förklara vad labben går ut på, utan att gå in
-på detaljer.111111111
+på detaljer.111111111111
 
 
 # Uppgift 1
